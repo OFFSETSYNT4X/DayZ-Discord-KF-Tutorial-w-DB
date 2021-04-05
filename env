@@ -1,0 +1,8 @@
+TOKEN = "Your Bot Token Goes Here"
+NitraToken = "Your Nitrado Token Goes Here"
+ID1 = "Your Nitrado Server ID Goes Here"
+ID2 = "Your Nitrado Server username Goes Here"
+MONGO_ATLAS_PW = "Your MongoDB Password Goes Here"
+MONGO_CLUSTER = "Your MongoDB Cluster Path Goes Here"
+MONGO_USER = "Your MongoDB Username Goes Here"
+MONGO_DB = "Your Mongo DataBase Name Goes Here"
